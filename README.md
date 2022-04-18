@@ -1,47 +1,71 @@
 # 我的程序员书单
+<img  src="https://github-readme-stats.vercel.app/api?username=HHfeng616&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
+- [个人博客](https://hhfeng616.github.io/)
+- ![](https://visitor-badge.glitch.me/badge?page_id=HHFeng616.readme)
+
+
+
+
+
+
+***
 ## 最近在读的书
 > 前端
 - 1 [深入浅出node.js-朴灵](https://github.com/hhfeng616/MyBookListCode/tree/main/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BAnode-%E6%BA%90%E4%BB%A3%E7%A0%81)
-- 2 [Node.js开发实战](https://github.com/hhfeng616/MyBookListCode/tree/main/nodejs%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98-%E6%BA%90%E4%BB%A3%E7%A0%81)
+- 2 [Node.js开发实战-忽如寄](https://github.com/hhfeng616/MyBookListCode/tree/main/nodejs%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98-%E6%BA%90%E4%BB%A3%E7%A0%81)
 - 3 [React 进阶之路-徐超](https://github.com/hhfeng616/MyBookListCode/tree/main/react-book-master)
 - 4 [Vue.js 实战-梁灏](https://github.com/hhfeng616/MyBookListCode/tree/main/vue-book-master)
-- 5 []()
-- 6 []()
-- 7 []()
-- 8 []()
-- 9 []()
-- 10 []()
-- 11 []()
-- 12 []()
-- 13 []()
-- 14 []()
-- 15 []()
+- 5 [HTML5与CSS3权威指南-陆凌牛]()
+- 6 [CSS权威指南-EricA.Meyer&EstelleWeyl]()
+- 7 [精通CSS高级web标准解决方案-英 安迪.巴德 瑞典 埃米尔.比约克隆德]()
+- 8 [JavaScript 高级程序设计 第3版-美Nicholas C.Zakas]()
+- 9 [JavaScript 权威指南-Flanagan]()
+- 10 [高性能JavaScript-美Nicholas C.Zakas]()
+- 11 [TypeScript 实战指南-胡恒铭]()
+- 12 [JavaScript 设计模式-张容铭]()
 ***
 > 后端
 - 1 [ASP.NET MVC5 框架揭秘-蒋金楠]()
 - 2 [Entity Framework 实用精要-吕高旭](https://github.com/hhfeng616/MyBookListCode/tree/main/%E8%8C%83%E4%BE%8B%E7%A8%8B%E5%BA%8F)
 - 3 [你必须掌握的Entity Framework 6.x与Core 2.0](https://github.com/hhfeng616/MyBookListCode/tree/main/EntityFramework6.x-And-Core2.0-master)
-- 4 []()
-- 5 []()
-- 6 []()
-- 7 []()
-- 8 []()
+- 4 [ASP.NET Core 开发实战-Dino Esposito]()
+- 5 [你必须知道的.NET 第2版-王涛]()
+- 6 [CLR Via C# 第3版-Jeffrey Richter]()
+- 7 [C++ primer 第4版-Stanley B.Lippman&Josee Lajoie&Barbara E.Moo]()
 ***
 > 其他
-- 1 []()
-- 2 []()
-- 3 []()
-- 4 []()
-- 5 []()
-- 6 []()
-- 7 []()
-- 8 []()
+- 1 [大话设计模式-程杰]()
+- 2 [Web 服务器渗透实战技术-陈小兵]()
+- 3 [服务器安全配置与管理(Windows Server 2012)-陈永]()
+- 4 [从零开始学SEO搜索引擎优化-倪涛]()
+- 5 [SEO实战密码-Zac辉]()
+- 6 [百度SEO一本通-潘坚 李迅]()
+- 7 [新概念英语全系列]()
+- -1[新概念英语(1)练习册]()
+- -2[新概念英语(1)练习详解]()
+- -3[新概念英语(1)自学导读]()
+- -4[新概念英语(2)练习册]()
+- -5[新概念英语(2)练习详解]()
+- -6[新概念英语(2)自学导读]()
+- -7[新概念英语(3)练习册]()
+- -8[新概念英语(3)练习详解]()
+- -9[新概念英语(3)自学导读]()
+- -10[新概念英语(4)练习册]()
+- -11[新概念英语(4)练习详解]()
+- -12[新概念英语(4)自学导读]()
+- -13[新概念英语(新版带音频)(1)]()
+- -14[新概念英语(新版带音频)(2)]()
+- -15[新概念英语(新版带音频)(3)]()
+- -16[新概念英语(新版带音频)(4)]()
+- -17[新概念英语(语法手册)]()
+- -18[新概念英语词法大全]()
+
 ***
 
 
 ## 未来计划要读的书
-
+- 1 [Webpack+Babel入门与实例详解- 姜瑞涛]()
 
 ## 日常收集的电子书
 - 1 [ASP.NET MVC4开发指南.pdf](https://github.com/hhfeng616/MyBookList/blob/main/%E6%97%A5%E5%B8%B8%E6%94%B6%E9%9B%86%E7%9A%84%E7%94%B5%E5%AD%90%E4%B9%A6/ASP.NET%20MVC4%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97.pdf)
