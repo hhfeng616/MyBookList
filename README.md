@@ -66,6 +66,7 @@
 
 ## 未来计划要读的书
 - 1 [Webpack+Babel入门与实例详解- 姜瑞涛]()
+- 2 [网络工程师教程 第五版- 雷震甲]()
 
 ## 日常收集的电子书
 - 1 [ASP.NET MVC4开发指南.pdf](https://github.com/hhfeng616/MyBookList/blob/main/%E6%97%A5%E5%B8%B8%E6%94%B6%E9%9B%86%E7%9A%84%E7%94%B5%E5%AD%90%E4%B9%A6/ASP.NET%20MVC4%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97.pdf)
