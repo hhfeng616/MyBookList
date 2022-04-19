@@ -35,7 +35,7 @@
 - 7 [C++ primer 第4版-Stanley B.Lippman&Josee Lajoie&Barbara E.Moo]()
 ***
 > 其他
-- 1 [大话设计模式-程杰]()
+- 1 [大话设计模式-程杰](https://github.com/hhfeng616/MyBookListCode/tree/main/%E5%A4%A7%E8%AF%9D%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
 - 2 [Web 服务器渗透实战技术-陈小兵]()
 - 3 [服务器安全配置与管理(Windows Server 2012)-陈永]()
 - 4 [从零开始学SEO搜索引擎优化-倪涛]()
