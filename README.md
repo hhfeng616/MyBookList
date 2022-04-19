@@ -65,7 +65,7 @@
 
 
 ## 未来计划要读的书
-- 1 [Webpack+Babel入门与实例详解- 姜瑞涛]()
+- 1 [Webpack+Babel入门与实例详解- 姜瑞涛](https://www.jiangruitao.com/webpack/)
 - 2 [网络工程师教程 第五版- 雷震甲]()
 
 ## 日常收集的电子书
