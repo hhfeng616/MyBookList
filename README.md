@@ -30,7 +30,7 @@
 - 2 [Entity Framework 实用精要-吕高旭](https://github.com/hhfeng616/MyBookListCode/tree/main/%E8%8C%83%E4%BE%8B%E7%A8%8B%E5%BA%8F)
 - 3 [你必须掌握的Entity Framework 6.x与Core 2.0](https://github.com/hhfeng616/MyBookListCode/tree/main/EntityFramework6.x-And-Core2.0-master)
 - 4 [ASP.NET Core 开发实战-Dino Esposito]()
-- 5 [你必须知道的.NET 第2版-王涛]()
+- 5 [你必须知道的.NET 第2版-王涛](https://www.cnblogs.com/anytao/)
 - 6 [CLR Via C# 第3版-Jeffrey Richter]()
 - 7 [C++ primer 第4版-Stanley B.Lippman&Josee Lajoie&Barbara E.Moo]()
 ***
