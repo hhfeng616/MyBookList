@@ -18,7 +18,7 @@
 - 4 [Vue.js 实战-梁灏](https://github.com/hhfeng616/MyBookListCode/tree/main/vue-book-master)
 - 5 [HTML5与CSS3权威指南-陆凌牛](https://github.com/hhfeng616/MyBookListCode/tree/main/HTML%205%E4%B8%8ECSS%203%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97-%E7%AC%AC3%E7%89%88)
 - 6 [CSS权威指南-EricA.Meyer&EstelleWeyl]()
-- 7 [精通CSS高级web标准解决方案-英 安迪.巴德 瑞典 埃米尔.比约克隆德]()
+- 7 [精通CSS高级web标准解决方案-英 安迪.巴德 瑞典 埃米尔.比约克隆德](https://github.com/hhfeng616/MyBookListCode/tree/main/css-mastery-16-master)
 - 8 [JavaScript 高级程序设计 第3版-美Nicholas C.Zakas]()
 - 9 [JavaScript 权威指南-Flanagan]()
 - 10 [高性能JavaScript-美Nicholas C.Zakas]()
